@@ -1,5 +1,5 @@
 # Sunshade Holder
-3D printable Railing bottom support for Sunshade (26 mm hole)
+3D printable railing bottom support for Sunshade (26 mm hole)
 
 
 ## View
